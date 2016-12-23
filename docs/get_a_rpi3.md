@@ -1,11 +1,11 @@
-# Get a Raspberry Pi
+# Get a Pi
 
 ## Pi versions
 
 There are already the 3rd generations pis. The main improvements in rpi 3B are built-in Wi-Fi and Bluetooth.
 
-|| Raspberry Pi 2 Model B | Raspberry Pi 3 Model B  |
-| -- | -- | -- |
+| | Raspberry Pi 2 Model B | Raspberry Pi 3 Model B  |
+| ---- | ---- | ---- |
 | CPU | 900MHz quad-core ARM Cortex-A7 | 1.2GHz 64-bit quad-core ARMv8 |
 | RAM | 1GB | 1GB |
 | Wi-Fi | No | 802.11n Wireless LAN |
@@ -19,11 +19,11 @@ There are already the 3rd generations pis. The main improvements in rpi 3B are b
 | Storage | Micro SD | Micro SD |
 | GPU | VideoCore IV 3D graphics core | VideoCore IV 3D graphics core |
 
-## Bbuy a Pi
+## Buy a Pi
 
 rpi3 is easy to get from internet.
 
-* China, it could be found in ¾©¶«: www.jd.com or ÌÔ±¦: www.taobao.com in about 300RMB.
+* China, it could be found in JD: www.jd.com or Taobao: www.taobao.com in about 300RMB.
 * American, it is about 39USD in Amazon.
 
 ## Accessories
@@ -39,7 +39,7 @@ Something are unnecessary:
 
 A lot of other accessories is availabe in JD, Taobao and Amazon base on your requirements:
 * LED screen: I am working with rpi headlessly with SSH. So it is unnecessary to me. You can also temperarily use your TV as a screen with HDMI.
-* USB keyboard: It is convenience to has a USB keyboard, but also not a must. There are some some special wired or wireless mini keyboard can be used as remote controller. Check in JD, Taobao or Amazon.
+* USB keyboard: It is convenience to has a USB keyboard, but also not a must. There are some some special wired or wireless mini keyboard can be used as remote controller. Check them in internet.
 * USB mouse: I believe everyone has it.
 * A Wi-Fi dongle or a BT dongle for rpi 2B. Ignore them if you are using 3B.
 * GPIO expansion and LED matrix
