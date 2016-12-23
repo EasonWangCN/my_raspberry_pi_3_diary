@@ -8,5 +8,9 @@ I have no experience on previouse pi versions (2B, 1, 0...) and has a little Lin
 * Bluetooth, Wi-Fi, and audio system
 * Python and C++ programming
 
+## content
+
+[get a rpi3](docs/get_a_rpi3.md)
+
 ## license
 Free share, please mark the link to reference . :)
