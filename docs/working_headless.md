@@ -1,13 +1,13 @@
 # Working Headlessly
 
-Headless means no keyboard, no monitor (If not, forgive my poor English). The way we access to Linux in Pi is SSH via network. To achieve it, we should:
+Headless means no keyboard, no monitor (forgive my poor English if wrongly understanded). The way we access to Linux in Pi is SSH via network. To achieve it, we should:
 
 * Setup network
 * Enable SSH server in Linux.
 
-While setup network if need Wi-Fi setup, you can need to:
+To setup Wi-Fi, you may need to:
 
-* Access the Ext3 patition of the SD card from Window or Mac OSX.
+* Mount ext3 patition to Window or Mac OSX.
 
 Let's start step by step.
 
