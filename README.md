@@ -11,15 +11,21 @@ I have no experience on previouse pi versions (2B, 1, 0...) and has a little Lin
 
 ## Content
 
+### Setup the Pi
+
 [Get a Pi](docs/get_a_pi.md) <br/>
 [Install Linux for Pi](docs/install_linux.md) <br/>
+[Working headlessly](docs/working_headless.md) <br/>
 
 ## Useful Link
 
-Raspberry Pi official site: www.raspberrypi.org/ <br/>
-Google: www.google.com and Github: www.github.com (Sadly, in China, it is not easy to get Google access. Thanks our boss to built a VPN in company)
+90% informations could be got from Internet, such as
 
-Then you can solve 90% problems with a lot of information, sample codes from many fortums. But sometimes, searching and reading is also not easy. So that's why I made this diary for memo and hope it will help some newbies like me.
+* Raspberry Pi official site: www.raspberrypi.org/ <br/>
+* Google: www.google.com and,
+* Github: www.github.com (Sadly, in China, it is not easy to get Google access. Thanks our boss to built a VPN in company)
+
+There are thousands guides, discussion threads, and sample codes you can found. But sometimes, searching and reading still take a lot of times. That's why I made this diary to pack and sort those informations and hope it can help some newbies like me.
 
 ## License
 

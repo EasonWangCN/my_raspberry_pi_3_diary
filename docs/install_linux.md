@@ -1,5 +1,11 @@
 # Install Linux for Pi
 
+Raspberry Pi allows many different OSes. A detail instruction avialable in the official site: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+
+The NOBOS installer is also a good choice: https://www.raspberrypi.org/downloads/noobs/
+
+I'll only focus how to install Raspbian Jessie Lite image directly here.
+
 ## Preperation
 
 ###HW
@@ -13,9 +19,11 @@ Be careful the USB cable. Some low quality USB cable will infect the power suppl
 
 ### SW
 
-* **RASPBIAN JESSIE LITE** , the minimal Linux OS. Off cause you can use RASPBIAN JESSIE WITH PIXEL, also a Raspbian Linux OS withGUI desktop; or NOOBOS, an "Out of Box" OS installer. Check https://www.raspberrypi.org/downloads/ for details.
+* **RASPBIAN JESSIE LITE** , the minimal Linux OS. 
+    Off cause you can use RASPBIAN JESSIE WITH PIXEL, also a Raspbian Linux OS withGUI desktop; or NOOBOS, an "Out of Box" OS installer. Check https://www.raspberrypi.org/downloads/ for details.
 
-* **Etcher** , a SD card burner App. Win32DiskImager is the offical suggestion. But I choose it as it is free, cross platform, open source or good compatibilities and the most important: beautiful interface.
+* **Etcher** , a SD card burner App.
+    Win32DiskImager is the offical suggestion. But I choose it as it is free, cross platform, open source or good compatibilities and the most important: beautiful interface.
 
 I know a lot of Linux guys despise GUI interface and insistant working with terminal. But I believe a easier and more friendly develop enviorment can help more people start contributing to Linux community.
 
@@ -37,9 +45,11 @@ Open Etcher, follow the guide: select image --> select driver --> flash.
 
 ## Ready to enjoy
 
-Insert SD card to Pi, plug micro USB cable. Bingo, all finished. It is easy, isn't it?
+Insert SD card to Pi, plug micro USB cable. Bingo, works. It is easy, isn't it?
 
-Some hints to help your work.
+The initial account is `pi` and password is `raspberry`.
+
+There are some hints to help you start working.
 
 ### LEDs
 
@@ -49,6 +59,4 @@ The yellow one is the SD card access indicator. When booting, it should be flush
 
 ### Keyboard and Monitor
 
-You can easily connect a monitor (or TV) to Pi with HDMI port. The drivers are already built in Raspbian.
-
-An USB keyboard can help you start working immediately like an Linux PC. But if you have no them, don't worry, another headless method is introduced in follow sections.
+You can easily connect a monitor (or TV) to Pi by HDMI and a Keyboard via USB. They can help you start working immediately like an Linux PC. But if you don't have them, don't worry, another headless method is introduced in follow sections.

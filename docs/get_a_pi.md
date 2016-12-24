@@ -33,19 +33,30 @@ rpi3 is easy to get from internet.
 
 There are a lot of rpi accessories, some are essential and recommend to have:
 
-* A **USB micro B power cable** with switch is recommended. There are no power swith in the board itself. It is quite annoying to plug and unplug USB cable times and times.
-* One or several **16GB Class 10 SD card** is also recommended. 8GB is OK in may cases but Class 10 is necessary, which provides better performance to run system.
+* A **USB micro B power cable** with switch is recommended. 
+
+    There are no power swith in the board itself. It is quite annoying to plug and unplug USB cable times and times.
+       
+* One or several **16GB Class 10 SD card** is also recommended. 
+
+    8GB is also OK but Class 10 is necessary, which provides better performance to run system.
 
 Something are unnecessary:
 
-* A **5V 2.5A  Power adapter** though Pi requires 5V 2.5A power input offically, a iPad adapter in 5V 2.1A is enough. But make sure you have a qualified adapter and USB cables, or you'll face some random SD card RW issue without clues.
+* A **5V 2.5A  Power adapter** 
+
+    Though Pi requires 5V 2.5A power input offically, a iPad adapter in 5V 2.1A is enough. But make sure you have a qualified adapter and USB cables, or you'll face some random SD card RW issue without clues.
+    
 * **Fins or funs** is usually not necessary, unless with the case.
-* A **LED screen** is a good choice to build an bussiness demo. But Pi can be worked totoally headlessly with SSH. Also, a TV or other PC monitor with HDMI is works.
+* A **LED screen** is a good choice to build an bussiness demo. But Pi can be worked totoally headlessly with SSH, or with a TV or PC monitor via HDMI.
 
 A lot of other accessories is availabe in JD, Taobao and Amazon base on your requirements:
 
 * A **case** to protect Pi. My Pi used to drop from the table and the SD card reader broken.
-* **USB keyboard** It is quite convenience to has a USB keyboard, but also not a must. There are some some special wired or wireless mini keyboard can be used as remote controller. Check them in internet.
+* A **USB keyboard** is quite convenience to has a USB keyboard, but also not a must.
+
+    There are some some special wired or wireless mini keyboard can be used as remote controller. Check them in internet.
+    
 * **USB mouse** I believe everyone has it.
 * A **Wi-Fi dongle or a BT dongle** for previouse Pi versions. Ignore them if you are using 3B.
 * GPIO expansion or LED matrix board
