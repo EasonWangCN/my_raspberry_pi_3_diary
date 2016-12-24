@@ -36,7 +36,7 @@ The problems here is the auto-mount patition is readonly. There are some instruc
 2. Unplug the SD card.
 3. Modify the `fuse-ext2.util` file to add `rw+` options.
 4. Re-insert the SD card.
-5. now only `boot` patition is available in the Finder, but don't worry, you can access another patition via terminal in `/Volumes/Untitled`
+5. now only `boot` patition is available in the Finder, but don't worry, you can access another patition via terminal in `/Volumes/Untitled` and it is writeable.
 
 Will keep on further study.
 

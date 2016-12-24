@@ -17,6 +17,10 @@ I have no experience on previouse pi versions (2B, 1, 0...) and has a little Lin
 [Install Linux for Pi](docs/install_linux.md) <br/>
 [Working headlessly](docs/working_headless.md) <br/>
 
+### Useful Hints
+
+[Mount ext3 Patition to Windows or OSX] (docs/mount_ext3_patition.md)
+
 ## Useful Link
 
 90% informations could be got from Internet, such as
