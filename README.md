@@ -9,27 +9,7 @@ I have no experience on previouse pi versions (2B, 1, 0...) and has a little Lin
 * Python and C++
 * Linux Bluetooth, Wi-Fi, and audio programming
 
-## Content
-
-### Setup the Pi
-
-[Get a Pi](docs/get_a_pi.md) <br/>
-[Install Linux for Pi](docs/install_linux.md) <br/>
-[Working headlessly](docs/working_headless.md) <br/>
-
-### Useful Hints
-
-[Mount ext3 Patition to Windows or OSX] (docs/mount_ext3_patition.md)
-
-## Useful Link
-
-90% informations could be got from Internet, such as
-
-* Raspberry Pi official site: www.raspberrypi.org/ <br/>
-* Google: www.google.com and,
-* Github: www.github.com (Sadly, in China, it is not easy to get Google access. Thanks our boss to built a VPN in company)
-
-There are thousands guides, discussion threads, and sample codes you can found. But sometimes, searching and reading still take a lot of times. That's why I made this diary to pack and sort those informations and hope it can help some newbies like me.
+Check the wiki pages of this respository: https://github.com/EasonWangCN/my_raspberry_pi_3_diary/wiki for content
 
 ## License
 
